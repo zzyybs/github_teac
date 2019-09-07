@@ -10,5 +10,6 @@ public class Hello_GitHub
     {
         System.out.println("11111");
         System.out.println("mysql03");
+        System.out.println("java01");
     }
 }
