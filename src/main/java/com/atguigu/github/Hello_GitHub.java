@@ -12,5 +12,6 @@ public class Hello_GitHub
         System.out.println("mysql03");
         System.out.println("java01");
         System.out.println("abcabc");
+        System.out.println("mycomputer");
     }
 }
